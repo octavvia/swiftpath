@@ -14,6 +14,17 @@
 		7BBED5C62B4E3B2A003D4D72 /* designcodeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BBED5C52B4E3B2A003D4D72 /* designcodeTests.swift */; };
 		7BBED5D02B4E3B2A003D4D72 /* designcodeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BBED5CF2B4E3B2A003D4D72 /* designcodeUITests.swift */; };
 		7BBED5D22B4E3B2A003D4D72 /* designcodeUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BBED5D12B4E3B2A003D4D72 /* designcodeUITestsLaunchTests.swift */; };
+		7BBED5E02B4E3BCC003D4D72 /* 01-Layout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BBED5DF2B4E3BCC003D4D72 /* 01-Layout.swift */; };
+		7BBED5E22B4E3D94003D4D72 /* 02-StackAndSpacer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BBED5E12B4E3D93003D4D72 /* 02-StackAndSpacer.swift */; };
+		7BBED5E42B4E40E8003D4D72 /* 04-ShapeAndStroke.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BBED5E32B4E40E8003D4D72 /* 04-ShapeAndStroke.swift */; };
+		7BBED5E62B4E44D0003D4D72 /* 05-SFSymbol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BBED5E52B4E44D0003D4D72 /* 05-SFSymbol.swift */; };
+		7BBED5E82B4E457C003D4D72 /* 06-ColorLiteral.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BBED5E72B4E457C003D4D72 /* 06-ColorLiteral.swift */; };
+		7BBED5EA2B4E45E8003D4D72 /* 07-SideBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BBED5E92B4E45E8003D4D72 /* 07-SideBar.swift */; };
+		7BBED5EC2B4E48D6003D4D72 /* 08-ToolBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BBED5EB2B4E48D6003D4D72 /* 08-ToolBar.swift */; };
+		7BBED5EE2B4E4938003D4D72 /* 10-SaveArea.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BBED5ED2B4E4938003D4D72 /* 10-SaveArea.swift */; };
+		7BBED5F02B4E49FF003D4D72 /* 11-Text.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BBED5EF2B4E49FF003D4D72 /* 11-Text.swift */; };
+		7BBED5F22B4E4A91003D4D72 /* 15-ShadowAndOpacity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BBED5F12B4E4A91003D4D72 /* 15-ShadowAndOpacity.swift */; };
+		7BBED5F42B4E4B04003D4D72 /* 16-MaskAndTransparancy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BBED5F32B4E4B04003D4D72 /* 16-MaskAndTransparancy.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +55,17 @@
 		7BBED5CB2B4E3B2A003D4D72 /* designcodeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = designcodeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7BBED5CF2B4E3B2A003D4D72 /* designcodeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = designcodeUITests.swift; sourceTree = "<group>"; };
 		7BBED5D12B4E3B2A003D4D72 /* designcodeUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = designcodeUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		7BBED5DF2B4E3BCC003D4D72 /* 01-Layout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "01-Layout.swift"; sourceTree = "<group>"; };
+		7BBED5E12B4E3D93003D4D72 /* 02-StackAndSpacer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "02-StackAndSpacer.swift"; sourceTree = "<group>"; };
+		7BBED5E32B4E40E8003D4D72 /* 04-ShapeAndStroke.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "04-ShapeAndStroke.swift"; sourceTree = "<group>"; };
+		7BBED5E52B4E44D0003D4D72 /* 05-SFSymbol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "05-SFSymbol.swift"; sourceTree = "<group>"; };
+		7BBED5E72B4E457C003D4D72 /* 06-ColorLiteral.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "06-ColorLiteral.swift"; sourceTree = "<group>"; };
+		7BBED5E92B4E45E8003D4D72 /* 07-SideBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "07-SideBar.swift"; sourceTree = "<group>"; };
+		7BBED5EB2B4E48D6003D4D72 /* 08-ToolBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "08-ToolBar.swift"; sourceTree = "<group>"; };
+		7BBED5ED2B4E4938003D4D72 /* 10-SaveArea.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10-SaveArea.swift"; sourceTree = "<group>"; };
+		7BBED5EF2B4E49FF003D4D72 /* 11-Text.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "11-Text.swift"; sourceTree = "<group>"; };
+		7BBED5F12B4E4A91003D4D72 /* 15-ShadowAndOpacity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "15-ShadowAndOpacity.swift"; sourceTree = "<group>"; };
+		7BBED5F32B4E4B04003D4D72 /* 16-MaskAndTransparancy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "16-MaskAndTransparancy.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +118,7 @@
 			children = (
 				7BBED5B42B4E3B28003D4D72 /* designcodeApp.swift */,
 				7BBED5B62B4E3B28003D4D72 /* ContentView.swift */,
+				7BBED5DE2B4E3B3E003D4D72 /* Design Code Tutorial */,
 				7BBED5B82B4E3B29003D4D72 /* Assets.xcassets */,
 				7BBED5BA2B4E3B29003D4D72 /* Preview Content */,
 			);
@@ -125,6 +148,24 @@
 				7BBED5D12B4E3B2A003D4D72 /* designcodeUITestsLaunchTests.swift */,
 			);
 			path = designcodeUITests;
+			sourceTree = "<group>";
+		};
+		7BBED5DE2B4E3B3E003D4D72 /* Design Code Tutorial */ = {
+			isa = PBXGroup;
+			children = (
+				7BBED5DF2B4E3BCC003D4D72 /* 01-Layout.swift */,
+				7BBED5E12B4E3D93003D4D72 /* 02-StackAndSpacer.swift */,
+				7BBED5E32B4E40E8003D4D72 /* 04-ShapeAndStroke.swift */,
+				7BBED5E52B4E44D0003D4D72 /* 05-SFSymbol.swift */,
+				7BBED5E72B4E457C003D4D72 /* 06-ColorLiteral.swift */,
+				7BBED5E92B4E45E8003D4D72 /* 07-SideBar.swift */,
+				7BBED5EB2B4E48D6003D4D72 /* 08-ToolBar.swift */,
+				7BBED5ED2B4E4938003D4D72 /* 10-SaveArea.swift */,
+				7BBED5EF2B4E49FF003D4D72 /* 11-Text.swift */,
+				7BBED5F12B4E4A91003D4D72 /* 15-ShadowAndOpacity.swift */,
+				7BBED5F32B4E4B04003D4D72 /* 16-MaskAndTransparancy.swift */,
+			);
+			path = "Design Code Tutorial";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -257,6 +298,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7BBED5EC2B4E48D6003D4D72 /* 08-ToolBar.swift in Sources */,
+				7BBED5F42B4E4B04003D4D72 /* 16-MaskAndTransparancy.swift in Sources */,
+				7BBED5E82B4E457C003D4D72 /* 06-ColorLiteral.swift in Sources */,
+				7BBED5EA2B4E45E8003D4D72 /* 07-SideBar.swift in Sources */,
+				7BBED5E22B4E3D94003D4D72 /* 02-StackAndSpacer.swift in Sources */,
+				7BBED5E62B4E44D0003D4D72 /* 05-SFSymbol.swift in Sources */,
+				7BBED5E02B4E3BCC003D4D72 /* 01-Layout.swift in Sources */,
+				7BBED5EE2B4E4938003D4D72 /* 10-SaveArea.swift in Sources */,
+				7BBED5F02B4E49FF003D4D72 /* 11-Text.swift in Sources */,
+				7BBED5E42B4E40E8003D4D72 /* 04-ShapeAndStroke.swift in Sources */,
+				7BBED5F22B4E4A91003D4D72 /* 15-ShadowAndOpacity.swift in Sources */,
 				7BBED5B72B4E3B28003D4D72 /* ContentView.swift in Sources */,
 				7BBED5B52B4E3B28003D4D72 /* designcodeApp.swift in Sources */,
 			);
