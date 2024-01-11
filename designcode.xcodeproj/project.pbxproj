@@ -25,6 +25,26 @@
 		7BBED5F02B4E49FF003D4D72 /* 11-Text.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BBED5EF2B4E49FF003D4D72 /* 11-Text.swift */; };
 		7BBED5F22B4E4A91003D4D72 /* 15-ShadowAndOpacity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BBED5F12B4E4A91003D4D72 /* 15-ShadowAndOpacity.swift */; };
 		7BBED5F42B4E4B04003D4D72 /* 16-MaskAndTransparancy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BBED5F32B4E4B04003D4D72 /* 16-MaskAndTransparancy.swift */; };
+		7BF70ED02B4E52C4006FEF2C /* 17-ClipShapeandSmooth.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BF70ECF2B4E52C4006FEF2C /* 17-ClipShapeandSmooth.swift */; };
+		7BF70ED22B4E5326006FEF2C /* 18-TabAndPagination.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BF70ED12B4E5326006FEF2C /* 18-TabAndPagination.swift */; };
+		7BF70ED42B4E537F006FEF2C /* 19-AnimationStates.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BF70ED32B4E537F006FEF2C /* 19-AnimationStates.swift */; };
+		7BF70ED62B4E53E4006FEF2C /* 20-TransitionAndAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BF70ED52B4E53E4006FEF2C /* 20-TransitionAndAnimation.swift */; };
+		7BF70ED82B4E55F9006FEF2C /* 21-AnimationModifierAndTiming.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BF70ED72B4E55F9006FEF2C /* 21-AnimationModifierAndTiming.swift */; };
+		7BF70EDA2B4E566D006FEF2C /* 22-TransforAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BF70ED92B4E566D006FEF2C /* 22-TransforAnimation.swift */; };
+		7BF70EDC2B4E6FA4006FEF2C /* 23-TabAnimationDelay.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BF70EDB2B4E6FA4006FEF2C /* 23-TabAnimationDelay.swift */; };
+		7BF70EDE2B4E700C006FEF2C /* 24-LongpresGesture.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BF70EDD2B4E700C006FEF2C /* 24-LongpresGesture.swift */; };
+		7BF70EE02B4E7063006FEF2C /* 25-DragGesture.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BF70EDF2B4E7063006FEF2C /* 25-DragGesture.swift */; };
+		7BF70EE22B4E70CD006FEF2C /* 26-MatchedGeometryEffect.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BF70EE12B4E70CD006FEF2C /* 26-MatchedGeometryEffect.swift */; };
+		7BF70EE42B4E85F6006FEF2C /* 27-LazyStacks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BF70EE32B4E85F6006FEF2C /* 27-LazyStacks.swift */; };
+		7BF70EE62B4E865B006FEF2C /* 28-NavigationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BF70EE52B4E865B006FEF2C /* 28-NavigationView.swift */; };
+		7BF70EE82B4E8754006FEF2C /* 29-Link.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BF70EE72B4E8754006FEF2C /* 29-Link.swift */; };
+		7BF70EEA2B4E88E9006FEF2C /* 30-ColorPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BF70EE92B4E88E9006FEF2C /* 30-ColorPicker.swift */; };
+		7BF70EEC2B4E8943006FEF2C /* 31-DatePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BF70EEB2B4E8943006FEF2C /* 31-DatePicker.swift */; };
+		7BF70EEE2B4E8AC1006FEF2C /* 32-Hover.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BF70EED2B4E8AC1006FEF2C /* 32-Hover.swift */; };
+		7BF70EF12B4E8B6B006FEF2C /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BF70EF02B4E8B6B006FEF2C /* Home.swift */; };
+		7BF70EF42B4E8B8F006FEF2C /* buttons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BF70EF32B4E8B8F006FEF2C /* buttons.swift */; };
+		7BF70EF62B4E916F006FEF2C /* 34-StaticData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BF70EF52B4E916F006FEF2C /* 34-StaticData.swift */; };
+		7BF70EF82B4E91D7006FEF2C /* 35-Full Screen Modal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BF70EF72B4E91D7006FEF2C /* 35-Full Screen Modal.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -66,6 +86,26 @@
 		7BBED5EF2B4E49FF003D4D72 /* 11-Text.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "11-Text.swift"; sourceTree = "<group>"; };
 		7BBED5F12B4E4A91003D4D72 /* 15-ShadowAndOpacity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "15-ShadowAndOpacity.swift"; sourceTree = "<group>"; };
 		7BBED5F32B4E4B04003D4D72 /* 16-MaskAndTransparancy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "16-MaskAndTransparancy.swift"; sourceTree = "<group>"; };
+		7BF70ECF2B4E52C4006FEF2C /* 17-ClipShapeandSmooth.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "17-ClipShapeandSmooth.swift"; sourceTree = "<group>"; };
+		7BF70ED12B4E5326006FEF2C /* 18-TabAndPagination.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "18-TabAndPagination.swift"; sourceTree = "<group>"; };
+		7BF70ED32B4E537F006FEF2C /* 19-AnimationStates.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "19-AnimationStates.swift"; sourceTree = "<group>"; };
+		7BF70ED52B4E53E4006FEF2C /* 20-TransitionAndAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "20-TransitionAndAnimation.swift"; sourceTree = "<group>"; };
+		7BF70ED72B4E55F9006FEF2C /* 21-AnimationModifierAndTiming.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "21-AnimationModifierAndTiming.swift"; sourceTree = "<group>"; };
+		7BF70ED92B4E566D006FEF2C /* 22-TransforAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "22-TransforAnimation.swift"; sourceTree = "<group>"; };
+		7BF70EDB2B4E6FA4006FEF2C /* 23-TabAnimationDelay.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "23-TabAnimationDelay.swift"; sourceTree = "<group>"; };
+		7BF70EDD2B4E700C006FEF2C /* 24-LongpresGesture.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "24-LongpresGesture.swift"; sourceTree = "<group>"; };
+		7BF70EDF2B4E7063006FEF2C /* 25-DragGesture.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "25-DragGesture.swift"; sourceTree = "<group>"; };
+		7BF70EE12B4E70CD006FEF2C /* 26-MatchedGeometryEffect.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "26-MatchedGeometryEffect.swift"; sourceTree = "<group>"; };
+		7BF70EE32B4E85F6006FEF2C /* 27-LazyStacks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "27-LazyStacks.swift"; sourceTree = "<group>"; };
+		7BF70EE52B4E865B006FEF2C /* 28-NavigationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "28-NavigationView.swift"; sourceTree = "<group>"; };
+		7BF70EE72B4E8754006FEF2C /* 29-Link.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "29-Link.swift"; sourceTree = "<group>"; };
+		7BF70EE92B4E88E9006FEF2C /* 30-ColorPicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "30-ColorPicker.swift"; sourceTree = "<group>"; };
+		7BF70EEB2B4E8943006FEF2C /* 31-DatePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "31-DatePicker.swift"; sourceTree = "<group>"; };
+		7BF70EED2B4E8AC1006FEF2C /* 32-Hover.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "32-Hover.swift"; sourceTree = "<group>"; };
+		7BF70EF02B4E8B6B006FEF2C /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
+		7BF70EF32B4E8B8F006FEF2C /* buttons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = buttons.swift; sourceTree = "<group>"; };
+		7BF70EF52B4E916F006FEF2C /* 34-StaticData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "34-StaticData.swift"; sourceTree = "<group>"; };
+		7BF70EF72B4E91D7006FEF2C /* 35-Full Screen Modal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "35-Full Screen Modal.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -164,8 +204,44 @@
 				7BBED5EF2B4E49FF003D4D72 /* 11-Text.swift */,
 				7BBED5F12B4E4A91003D4D72 /* 15-ShadowAndOpacity.swift */,
 				7BBED5F32B4E4B04003D4D72 /* 16-MaskAndTransparancy.swift */,
+				7BF70ECF2B4E52C4006FEF2C /* 17-ClipShapeandSmooth.swift */,
+				7BF70ED12B4E5326006FEF2C /* 18-TabAndPagination.swift */,
+				7BF70ED32B4E537F006FEF2C /* 19-AnimationStates.swift */,
+				7BF70ED52B4E53E4006FEF2C /* 20-TransitionAndAnimation.swift */,
+				7BF70ED72B4E55F9006FEF2C /* 21-AnimationModifierAndTiming.swift */,
+				7BF70ED92B4E566D006FEF2C /* 22-TransforAnimation.swift */,
+				7BF70EDB2B4E6FA4006FEF2C /* 23-TabAnimationDelay.swift */,
+				7BF70EDD2B4E700C006FEF2C /* 24-LongpresGesture.swift */,
+				7BF70EDF2B4E7063006FEF2C /* 25-DragGesture.swift */,
+				7BF70EE12B4E70CD006FEF2C /* 26-MatchedGeometryEffect.swift */,
+				7BF70EE32B4E85F6006FEF2C /* 27-LazyStacks.swift */,
+				7BF70EE52B4E865B006FEF2C /* 28-NavigationView.swift */,
+				7BF70EE72B4E8754006FEF2C /* 29-Link.swift */,
+				7BF70EE92B4E88E9006FEF2C /* 30-ColorPicker.swift */,
+				7BF70EEB2B4E8943006FEF2C /* 31-DatePicker.swift */,
+				7BF70EED2B4E8AC1006FEF2C /* 32-Hover.swift */,
+				7BF70EF52B4E916F006FEF2C /* 34-StaticData.swift */,
+				7BF70EF72B4E91D7006FEF2C /* 35-Full Screen Modal.swift */,
+				7BF70EEF2B4E8B4C006FEF2C /* 33-Component */,
 			);
 			path = "Design Code Tutorial";
+			sourceTree = "<group>";
+		};
+		7BF70EEF2B4E8B4C006FEF2C /* 33-Component */ = {
+			isa = PBXGroup;
+			children = (
+				7BF70EF02B4E8B6B006FEF2C /* Home.swift */,
+				7BF70EF22B4E8B70006FEF2C /* Buttons */,
+			);
+			path = "33-Component";
+			sourceTree = "<group>";
+		};
+		7BF70EF22B4E8B70006FEF2C /* Buttons */ = {
+			isa = PBXGroup;
+			children = (
+				7BF70EF32B4E8B8F006FEF2C /* buttons.swift */,
+			);
+			path = Buttons;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -300,16 +376,36 @@
 			files = (
 				7BBED5EC2B4E48D6003D4D72 /* 08-ToolBar.swift in Sources */,
 				7BBED5F42B4E4B04003D4D72 /* 16-MaskAndTransparancy.swift in Sources */,
+				7BF70EDA2B4E566D006FEF2C /* 22-TransforAnimation.swift in Sources */,
+				7BF70EE62B4E865B006FEF2C /* 28-NavigationView.swift in Sources */,
+				7BF70EF62B4E916F006FEF2C /* 34-StaticData.swift in Sources */,
+				7BF70EE82B4E8754006FEF2C /* 29-Link.swift in Sources */,
 				7BBED5E82B4E457C003D4D72 /* 06-ColorLiteral.swift in Sources */,
 				7BBED5EA2B4E45E8003D4D72 /* 07-SideBar.swift in Sources */,
+				7BF70EE42B4E85F6006FEF2C /* 27-LazyStacks.swift in Sources */,
+				7BF70EEE2B4E8AC1006FEF2C /* 32-Hover.swift in Sources */,
 				7BBED5E22B4E3D94003D4D72 /* 02-StackAndSpacer.swift in Sources */,
 				7BBED5E62B4E44D0003D4D72 /* 05-SFSymbol.swift in Sources */,
 				7BBED5E02B4E3BCC003D4D72 /* 01-Layout.swift in Sources */,
 				7BBED5EE2B4E4938003D4D72 /* 10-SaveArea.swift in Sources */,
+				7BF70ED62B4E53E4006FEF2C /* 20-TransitionAndAnimation.swift in Sources */,
+				7BF70EF82B4E91D7006FEF2C /* 35-Full Screen Modal.swift in Sources */,
 				7BBED5F02B4E49FF003D4D72 /* 11-Text.swift in Sources */,
+				7BF70ED02B4E52C4006FEF2C /* 17-ClipShapeandSmooth.swift in Sources */,
 				7BBED5E42B4E40E8003D4D72 /* 04-ShapeAndStroke.swift in Sources */,
+				7BF70ED82B4E55F9006FEF2C /* 21-AnimationModifierAndTiming.swift in Sources */,
 				7BBED5F22B4E4A91003D4D72 /* 15-ShadowAndOpacity.swift in Sources */,
+				7BF70EEA2B4E88E9006FEF2C /* 30-ColorPicker.swift in Sources */,
+				7BF70ED22B4E5326006FEF2C /* 18-TabAndPagination.swift in Sources */,
+				7BF70EE22B4E70CD006FEF2C /* 26-MatchedGeometryEffect.swift in Sources */,
+				7BF70EF12B4E8B6B006FEF2C /* Home.swift in Sources */,
+				7BF70EE02B4E7063006FEF2C /* 25-DragGesture.swift in Sources */,
+				7BF70EDE2B4E700C006FEF2C /* 24-LongpresGesture.swift in Sources */,
+				7BF70EEC2B4E8943006FEF2C /* 31-DatePicker.swift in Sources */,
+				7BF70EF42B4E8B8F006FEF2C /* buttons.swift in Sources */,
 				7BBED5B72B4E3B28003D4D72 /* ContentView.swift in Sources */,
+				7BF70EDC2B4E6FA4006FEF2C /* 23-TabAnimationDelay.swift in Sources */,
+				7BF70ED42B4E537F006FEF2C /* 19-AnimationStates.swift in Sources */,
 				7BBED5B52B4E3B28003D4D72 /* designcodeApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
