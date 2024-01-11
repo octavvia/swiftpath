@@ -1,5 +1,5 @@
 //
-//  10-SaveArea.swift
+//  10-SafeArea.swift
 //  designcode
 //
 //  Created by Aulia Octaviani on 10/01/24.
