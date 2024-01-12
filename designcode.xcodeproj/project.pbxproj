@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7BBADC762B4F979000519F59 /* 36-HideStatusBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BBADC752B4F979000519F59 /* 36-HideStatusBar.swift */; };
+		7BBADC782B4F98CD00519F59 /* 37-RedactedPlaceholder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BBADC772B4F98CD00519F59 /* 37-RedactedPlaceholder.swift */; };
+		7BBADC7A2B4F9B7500519F59 /* 38-HorizontalScroll3D.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BBADC792B4F9B7500519F59 /* 38-HorizontalScroll3D.swift */; };
 		7BBED5B52B4E3B28003D4D72 /* designcodeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BBED5B42B4E3B28003D4D72 /* designcodeApp.swift */; };
 		7BBED5B72B4E3B28003D4D72 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BBED5B62B4E3B28003D4D72 /* ContentView.swift */; };
 		7BBED5B92B4E3B29003D4D72 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7BBED5B82B4E3B29003D4D72 /* Assets.xcassets */; };
@@ -25,6 +28,18 @@
 		7BBED5F02B4E49FF003D4D72 /* 11-Text.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BBED5EF2B4E49FF003D4D72 /* 11-Text.swift */; };
 		7BBED5F22B4E4A91003D4D72 /* 15-ShadowAndOpacity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BBED5F12B4E4A91003D4D72 /* 15-ShadowAndOpacity.swift */; };
 		7BBED5F42B4E4B04003D4D72 /* 16-MaskAndTransparancy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BBED5F32B4E4B04003D4D72 /* 16-MaskAndTransparancy.swift */; };
+		7BF2CE192B50DF8000153B7A /* 39-AnimationRepeatDelaySpeed.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BF2CE182B50DF8000153B7A /* 39-AnimationRepeatDelaySpeed.swift */; };
+		7BF2CE1B2B50E20800153B7A /* 40-TabSelectionFromChildView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BF2CE1A2B50E20800153B7A /* 40-TabSelectionFromChildView.swift */; };
+		7BF2CE1D2B50E3C200153B7A /* 41-StatusBarSizeWithGeometry.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BF2CE1C2B50E3C200153B7A /* 41-StatusBarSizeWithGeometry.swift */; };
+		7BF2CE1F2B50E57500153B7A /* 42-ModalPresentation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BF2CE1E2B50E57500153B7A /* 42-ModalPresentation.swift */; };
+		7BF2CE212B50E71600153B7A /* 43-RemoteImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BF2CE202B50E71600153B7A /* 43-RemoteImage.swift */; };
+		7BF2CE242B50E74D00153B7A /* SDWebImageSwiftUI in Frameworks */ = {isa = PBXBuildFile; productRef = 7BF2CE232B50E74D00153B7A /* SDWebImageSwiftUI */; };
+		7BF2CE262B50EA4700153B7A /* 44-DismissCustomModal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BF2CE252B50EA4700153B7A /* 44-DismissCustomModal.swift */; };
+		7BF2CE282B50EBB500153B7A /* 45-IteratingArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BF2CE272B50EBB500153B7A /* 45-IteratingArray.swift */; };
+		7BF2CE2A2B50EDFF00153B7A /* 46-SwitchStatement.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BF2CE292B50EDFF00153B7A /* 46-SwitchStatement.swift */; };
+		7BF2CE2C2B50EEA500153B7A /* 47-FormatDate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BF2CE2B2B50EEA500153B7A /* 47-FormatDate.swift */; };
+		7BF2CE2E2B50F02B00153B7A /* 48-UserDefaults.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BF2CE2D2B50F02B00153B7A /* 48-UserDefaults.swift */; };
+		7BF2CE302B50F20800153B7A /* 49-HideKeyboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BF2CE2F2B50F20800153B7A /* 49-HideKeyboard.swift */; };
 		7BF70ED02B4E52C4006FEF2C /* 17-ClipShapeandSmooth.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BF70ECF2B4E52C4006FEF2C /* 17-ClipShapeandSmooth.swift */; };
 		7BF70ED22B4E5326006FEF2C /* 18-TabAndPagination.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BF70ED12B4E5326006FEF2C /* 18-TabAndPagination.swift */; };
 		7BF70ED42B4E537F006FEF2C /* 19-AnimationStates.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BF70ED32B4E537F006FEF2C /* 19-AnimationStates.swift */; };
@@ -65,6 +80,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		7BBADC752B4F979000519F59 /* 36-HideStatusBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "36-HideStatusBar.swift"; sourceTree = "<group>"; };
+		7BBADC772B4F98CD00519F59 /* 37-RedactedPlaceholder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "37-RedactedPlaceholder.swift"; sourceTree = "<group>"; };
+		7BBADC792B4F9B7500519F59 /* 38-HorizontalScroll3D.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "38-HorizontalScroll3D.swift"; sourceTree = "<group>"; };
 		7BBED5B12B4E3B28003D4D72 /* designcode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = designcode.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7BBED5B42B4E3B28003D4D72 /* designcodeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = designcodeApp.swift; sourceTree = "<group>"; };
 		7BBED5B62B4E3B28003D4D72 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -86,6 +104,17 @@
 		7BBED5EF2B4E49FF003D4D72 /* 11-Text.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "11-Text.swift"; sourceTree = "<group>"; };
 		7BBED5F12B4E4A91003D4D72 /* 15-ShadowAndOpacity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "15-ShadowAndOpacity.swift"; sourceTree = "<group>"; };
 		7BBED5F32B4E4B04003D4D72 /* 16-MaskAndTransparancy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "16-MaskAndTransparancy.swift"; sourceTree = "<group>"; };
+		7BF2CE182B50DF8000153B7A /* 39-AnimationRepeatDelaySpeed.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "39-AnimationRepeatDelaySpeed.swift"; sourceTree = "<group>"; };
+		7BF2CE1A2B50E20800153B7A /* 40-TabSelectionFromChildView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "40-TabSelectionFromChildView.swift"; sourceTree = "<group>"; };
+		7BF2CE1C2B50E3C200153B7A /* 41-StatusBarSizeWithGeometry.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "41-StatusBarSizeWithGeometry.swift"; sourceTree = "<group>"; };
+		7BF2CE1E2B50E57500153B7A /* 42-ModalPresentation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "42-ModalPresentation.swift"; sourceTree = "<group>"; };
+		7BF2CE202B50E71600153B7A /* 43-RemoteImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "43-RemoteImage.swift"; sourceTree = "<group>"; };
+		7BF2CE252B50EA4700153B7A /* 44-DismissCustomModal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "44-DismissCustomModal.swift"; sourceTree = "<group>"; };
+		7BF2CE272B50EBB500153B7A /* 45-IteratingArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "45-IteratingArray.swift"; sourceTree = "<group>"; };
+		7BF2CE292B50EDFF00153B7A /* 46-SwitchStatement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "46-SwitchStatement.swift"; sourceTree = "<group>"; };
+		7BF2CE2B2B50EEA500153B7A /* 47-FormatDate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "47-FormatDate.swift"; sourceTree = "<group>"; };
+		7BF2CE2D2B50F02B00153B7A /* 48-UserDefaults.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "48-UserDefaults.swift"; sourceTree = "<group>"; };
+		7BF2CE2F2B50F20800153B7A /* 49-HideKeyboard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "49-HideKeyboard.swift"; sourceTree = "<group>"; };
 		7BF70ECF2B4E52C4006FEF2C /* 17-ClipShapeandSmooth.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "17-ClipShapeandSmooth.swift"; sourceTree = "<group>"; };
 		7BF70ED12B4E5326006FEF2C /* 18-TabAndPagination.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "18-TabAndPagination.swift"; sourceTree = "<group>"; };
 		7BF70ED32B4E537F006FEF2C /* 19-AnimationStates.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "19-AnimationStates.swift"; sourceTree = "<group>"; };
@@ -113,6 +142,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7BF2CE242B50E74D00153B7A /* SDWebImageSwiftUI in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -222,6 +252,20 @@
 				7BF70EED2B4E8AC1006FEF2C /* 32-Hover.swift */,
 				7BF70EF52B4E916F006FEF2C /* 34-StaticData.swift */,
 				7BF70EF72B4E91D7006FEF2C /* 35-Full Screen Modal.swift */,
+				7BBADC752B4F979000519F59 /* 36-HideStatusBar.swift */,
+				7BBADC772B4F98CD00519F59 /* 37-RedactedPlaceholder.swift */,
+				7BBADC792B4F9B7500519F59 /* 38-HorizontalScroll3D.swift */,
+				7BF2CE182B50DF8000153B7A /* 39-AnimationRepeatDelaySpeed.swift */,
+				7BF2CE1A2B50E20800153B7A /* 40-TabSelectionFromChildView.swift */,
+				7BF2CE1E2B50E57500153B7A /* 42-ModalPresentation.swift */,
+				7BF2CE202B50E71600153B7A /* 43-RemoteImage.swift */,
+				7BF2CE252B50EA4700153B7A /* 44-DismissCustomModal.swift */,
+				7BF2CE272B50EBB500153B7A /* 45-IteratingArray.swift */,
+				7BF2CE292B50EDFF00153B7A /* 46-SwitchStatement.swift */,
+				7BF2CE2B2B50EEA500153B7A /* 47-FormatDate.swift */,
+				7BF2CE2D2B50F02B00153B7A /* 48-UserDefaults.swift */,
+				7BF2CE2F2B50F20800153B7A /* 49-HideKeyboard.swift */,
+				7BF2CE1C2B50E3C200153B7A /* 41-StatusBarSizeWithGeometry.swift */,
 				7BF70EEF2B4E8B4C006FEF2C /* 33-Component */,
 			);
 			path = "Design Code Tutorial";
@@ -260,6 +304,9 @@
 			dependencies = (
 			);
 			name = designcode;
+			packageProductDependencies = (
+				7BF2CE232B50E74D00153B7A /* SDWebImageSwiftUI */,
+			);
 			productName = designcode;
 			productReference = 7BBED5B12B4E3B28003D4D72 /* designcode.app */;
 			productType = "com.apple.product-type.application";
@@ -332,6 +379,9 @@
 				Base,
 			);
 			mainGroup = 7BBED5A82B4E3B28003D4D72;
+			packageReferences = (
+				7BF2CE222B50E74D00153B7A /* XCRemoteSwiftPackageReference "SDWebImageSwiftUI" */,
+			);
 			productRefGroup = 7BBED5B22B4E3B28003D4D72 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -376,36 +426,50 @@
 			files = (
 				7BBED5EC2B4E48D6003D4D72 /* 08-ToolBar.swift in Sources */,
 				7BBED5F42B4E4B04003D4D72 /* 16-MaskAndTransparancy.swift in Sources */,
+				7BBADC762B4F979000519F59 /* 36-HideStatusBar.swift in Sources */,
 				7BF70EDA2B4E566D006FEF2C /* 22-TransforAnimation.swift in Sources */,
 				7BF70EE62B4E865B006FEF2C /* 28-NavigationView.swift in Sources */,
 				7BF70EF62B4E916F006FEF2C /* 34-StaticData.swift in Sources */,
 				7BF70EE82B4E8754006FEF2C /* 29-Link.swift in Sources */,
 				7BBED5E82B4E457C003D4D72 /* 06-ColorLiteral.swift in Sources */,
 				7BBED5EA2B4E45E8003D4D72 /* 07-SideBar.swift in Sources */,
+				7BF2CE212B50E71600153B7A /* 43-RemoteImage.swift in Sources */,
+				7BF2CE1F2B50E57500153B7A /* 42-ModalPresentation.swift in Sources */,
+				7BF2CE1D2B50E3C200153B7A /* 41-StatusBarSizeWithGeometry.swift in Sources */,
 				7BF70EE42B4E85F6006FEF2C /* 27-LazyStacks.swift in Sources */,
+				7BF2CE2C2B50EEA500153B7A /* 47-FormatDate.swift in Sources */,
 				7BF70EEE2B4E8AC1006FEF2C /* 32-Hover.swift in Sources */,
+				7BF2CE192B50DF8000153B7A /* 39-AnimationRepeatDelaySpeed.swift in Sources */,
 				7BBED5E22B4E3D94003D4D72 /* 02-StackAndSpacer.swift in Sources */,
 				7BBED5E62B4E44D0003D4D72 /* 05-SFSymbol.swift in Sources */,
 				7BBED5E02B4E3BCC003D4D72 /* 01-Layout.swift in Sources */,
 				7BBED5EE2B4E4938003D4D72 /* 10-SaveArea.swift in Sources */,
 				7BF70ED62B4E53E4006FEF2C /* 20-TransitionAndAnimation.swift in Sources */,
 				7BF70EF82B4E91D7006FEF2C /* 35-Full Screen Modal.swift in Sources */,
+				7BF2CE2A2B50EDFF00153B7A /* 46-SwitchStatement.swift in Sources */,
 				7BBED5F02B4E49FF003D4D72 /* 11-Text.swift in Sources */,
 				7BF70ED02B4E52C4006FEF2C /* 17-ClipShapeandSmooth.swift in Sources */,
 				7BBED5E42B4E40E8003D4D72 /* 04-ShapeAndStroke.swift in Sources */,
 				7BF70ED82B4E55F9006FEF2C /* 21-AnimationModifierAndTiming.swift in Sources */,
 				7BBED5F22B4E4A91003D4D72 /* 15-ShadowAndOpacity.swift in Sources */,
 				7BF70EEA2B4E88E9006FEF2C /* 30-ColorPicker.swift in Sources */,
+				7BF2CE282B50EBB500153B7A /* 45-IteratingArray.swift in Sources */,
+				7BF2CE262B50EA4700153B7A /* 44-DismissCustomModal.swift in Sources */,
 				7BF70ED22B4E5326006FEF2C /* 18-TabAndPagination.swift in Sources */,
 				7BF70EE22B4E70CD006FEF2C /* 26-MatchedGeometryEffect.swift in Sources */,
+				7BF2CE1B2B50E20800153B7A /* 40-TabSelectionFromChildView.swift in Sources */,
 				7BF70EF12B4E8B6B006FEF2C /* Home.swift in Sources */,
+				7BF2CE302B50F20800153B7A /* 49-HideKeyboard.swift in Sources */,
+				7BBADC7A2B4F9B7500519F59 /* 38-HorizontalScroll3D.swift in Sources */,
 				7BF70EE02B4E7063006FEF2C /* 25-DragGesture.swift in Sources */,
 				7BF70EDE2B4E700C006FEF2C /* 24-LongpresGesture.swift in Sources */,
 				7BF70EEC2B4E8943006FEF2C /* 31-DatePicker.swift in Sources */,
 				7BF70EF42B4E8B8F006FEF2C /* buttons.swift in Sources */,
+				7BBADC782B4F98CD00519F59 /* 37-RedactedPlaceholder.swift in Sources */,
 				7BBED5B72B4E3B28003D4D72 /* ContentView.swift in Sources */,
 				7BF70EDC2B4E6FA4006FEF2C /* 23-TabAnimationDelay.swift in Sources */,
 				7BF70ED42B4E537F006FEF2C /* 19-AnimationStates.swift in Sources */,
+				7BF2CE2E2B50F02B00153B7A /* 48-UserDefaults.swift in Sources */,
 				7BBED5B52B4E3B28003D4D72 /* designcodeApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -730,6 +794,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		7BF2CE222B50E74D00153B7A /* XCRemoteSwiftPackageReference "SDWebImageSwiftUI" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/SDWebImage/SDWebImageSwiftUI";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 2.2.6;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		7BF2CE232B50E74D00153B7A /* SDWebImageSwiftUI */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 7BF2CE222B50E74D00153B7A /* XCRemoteSwiftPackageReference "SDWebImageSwiftUI" */;
+			productName = SDWebImageSwiftUI;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 7BBED5A92B4E3B28003D4D72 /* Project object */;
 }
