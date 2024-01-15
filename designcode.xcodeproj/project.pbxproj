@@ -7,6 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7B9F4CA92B54D47400CF97BD /* 50-AVPPlayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B9F4CA82B54D47400CF97BD /* 50-AVPPlayer.swift */; };
+		7B9F4CAB2B55075600CF97BD /* 51-LinkFromText.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B9F4CAA2B55075600CF97BD /* 51-LinkFromText.swift */; };
+		7B9F4CAD2B5508C000CF97BD /* 52-Share Sheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B9F4CAC2B5508C000CF97BD /* 52-Share Sheet.swift */; };
+		7B9F4CAF2B5509FD00CF97BD /* 53-StringInSwift.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B9F4CAE2B5509FD00CF97BD /* 53-StringInSwift.swift */; };
+		7B9F4CB12B550C2A00CF97BD /* 54-AppStorage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B9F4CB02B550C2A00CF97BD /* 54-AppStorage.swift */; };
+		7B9F4CB32B550CD200CF97BD /* 55-ActionSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B9F4CB22B550CD200CF97BD /* 55-ActionSheet.swift */; };
+		7B9F4CB52B550DB300CF97BD /* 56-TabbarScrollUp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B9F4CB42B550DB300CF97BD /* 56-TabbarScrollUp.swift */; };
 		7BBADC762B4F979000519F59 /* 36-HideStatusBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BBADC752B4F979000519F59 /* 36-HideStatusBar.swift */; };
 		7BBADC782B4F98CD00519F59 /* 37-RedactedPlaceholder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BBADC772B4F98CD00519F59 /* 37-RedactedPlaceholder.swift */; };
 		7BBADC7A2B4F9B7500519F59 /* 38-HorizontalScroll3D.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BBADC792B4F9B7500519F59 /* 38-HorizontalScroll3D.swift */; };
@@ -80,6 +87,13 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		7B9F4CA82B54D47400CF97BD /* 50-AVPPlayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "50-AVPPlayer.swift"; sourceTree = "<group>"; };
+		7B9F4CAA2B55075600CF97BD /* 51-LinkFromText.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "51-LinkFromText.swift"; sourceTree = "<group>"; };
+		7B9F4CAC2B5508C000CF97BD /* 52-Share Sheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "52-Share Sheet.swift"; sourceTree = "<group>"; };
+		7B9F4CAE2B5509FD00CF97BD /* 53-StringInSwift.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "53-StringInSwift.swift"; sourceTree = "<group>"; };
+		7B9F4CB02B550C2A00CF97BD /* 54-AppStorage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "54-AppStorage.swift"; sourceTree = "<group>"; };
+		7B9F4CB22B550CD200CF97BD /* 55-ActionSheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "55-ActionSheet.swift"; sourceTree = "<group>"; };
+		7B9F4CB42B550DB300CF97BD /* 56-TabbarScrollUp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "56-TabbarScrollUp.swift"; sourceTree = "<group>"; };
 		7BBADC752B4F979000519F59 /* 36-HideStatusBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "36-HideStatusBar.swift"; sourceTree = "<group>"; };
 		7BBADC772B4F98CD00519F59 /* 37-RedactedPlaceholder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "37-RedactedPlaceholder.swift"; sourceTree = "<group>"; };
 		7BBADC792B4F9B7500519F59 /* 38-HorizontalScroll3D.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "38-HorizontalScroll3D.swift"; sourceTree = "<group>"; };
@@ -265,6 +279,13 @@
 				7BF2CE2B2B50EEA500153B7A /* 47-FormatDate.swift */,
 				7BF2CE2D2B50F02B00153B7A /* 48-UserDefaults.swift */,
 				7BF2CE2F2B50F20800153B7A /* 49-HideKeyboard.swift */,
+				7B9F4CA82B54D47400CF97BD /* 50-AVPPlayer.swift */,
+				7B9F4CAA2B55075600CF97BD /* 51-LinkFromText.swift */,
+				7B9F4CAC2B5508C000CF97BD /* 52-Share Sheet.swift */,
+				7B9F4CAE2B5509FD00CF97BD /* 53-StringInSwift.swift */,
+				7B9F4CB02B550C2A00CF97BD /* 54-AppStorage.swift */,
+				7B9F4CB22B550CD200CF97BD /* 55-ActionSheet.swift */,
+				7B9F4CB42B550DB300CF97BD /* 56-TabbarScrollUp.swift */,
 				7BF2CE1C2B50E3C200153B7A /* 41-StatusBarSizeWithGeometry.swift */,
 				7BF70EEF2B4E8B4C006FEF2C /* 33-Component */,
 			);
@@ -427,12 +448,15 @@
 				7BBED5EC2B4E48D6003D4D72 /* 08-ToolBar.swift in Sources */,
 				7BBED5F42B4E4B04003D4D72 /* 16-MaskAndTransparancy.swift in Sources */,
 				7BBADC762B4F979000519F59 /* 36-HideStatusBar.swift in Sources */,
+				7B9F4CA92B54D47400CF97BD /* 50-AVPPlayer.swift in Sources */,
 				7BF70EDA2B4E566D006FEF2C /* 22-TransforAnimation.swift in Sources */,
 				7BF70EE62B4E865B006FEF2C /* 28-NavigationView.swift in Sources */,
+				7B9F4CB12B550C2A00CF97BD /* 54-AppStorage.swift in Sources */,
 				7BF70EF62B4E916F006FEF2C /* 34-StaticData.swift in Sources */,
 				7BF70EE82B4E8754006FEF2C /* 29-Link.swift in Sources */,
 				7BBED5E82B4E457C003D4D72 /* 06-ColorLiteral.swift in Sources */,
 				7BBED5EA2B4E45E8003D4D72 /* 07-SideBar.swift in Sources */,
+				7B9F4CAF2B5509FD00CF97BD /* 53-StringInSwift.swift in Sources */,
 				7BF2CE212B50E71600153B7A /* 43-RemoteImage.swift in Sources */,
 				7BF2CE1F2B50E57500153B7A /* 42-ModalPresentation.swift in Sources */,
 				7BF2CE1D2B50E3C200153B7A /* 41-StatusBarSizeWithGeometry.swift in Sources */,
@@ -447,13 +471,16 @@
 				7BF70ED62B4E53E4006FEF2C /* 20-TransitionAndAnimation.swift in Sources */,
 				7BF70EF82B4E91D7006FEF2C /* 35-Full Screen Modal.swift in Sources */,
 				7BF2CE2A2B50EDFF00153B7A /* 46-SwitchStatement.swift in Sources */,
+				7B9F4CB52B550DB300CF97BD /* 56-TabbarScrollUp.swift in Sources */,
 				7BBED5F02B4E49FF003D4D72 /* 11-Text.swift in Sources */,
 				7BF70ED02B4E52C4006FEF2C /* 17-ClipShapeandSmooth.swift in Sources */,
 				7BBED5E42B4E40E8003D4D72 /* 04-ShapeAndStroke.swift in Sources */,
+				7B9F4CAD2B5508C000CF97BD /* 52-Share Sheet.swift in Sources */,
 				7BF70ED82B4E55F9006FEF2C /* 21-AnimationModifierAndTiming.swift in Sources */,
 				7BBED5F22B4E4A91003D4D72 /* 15-ShadowAndOpacity.swift in Sources */,
 				7BF70EEA2B4E88E9006FEF2C /* 30-ColorPicker.swift in Sources */,
 				7BF2CE282B50EBB500153B7A /* 45-IteratingArray.swift in Sources */,
+				7B9F4CAB2B55075600CF97BD /* 51-LinkFromText.swift in Sources */,
 				7BF2CE262B50EA4700153B7A /* 44-DismissCustomModal.swift in Sources */,
 				7BF70ED22B4E5326006FEF2C /* 18-TabAndPagination.swift in Sources */,
 				7BF70EE22B4E70CD006FEF2C /* 26-MatchedGeometryEffect.swift in Sources */,
@@ -469,6 +496,7 @@
 				7BBED5B72B4E3B28003D4D72 /* ContentView.swift in Sources */,
 				7BF70EDC2B4E6FA4006FEF2C /* 23-TabAnimationDelay.swift in Sources */,
 				7BF70ED42B4E537F006FEF2C /* 19-AnimationStates.swift in Sources */,
+				7B9F4CB32B550CD200CF97BD /* 55-ActionSheet.swift in Sources */,
 				7BF2CE2E2B50F02B00153B7A /* 48-UserDefaults.swift in Sources */,
 				7BBED5B52B4E3B28003D4D72 /* designcodeApp.swift in Sources */,
 			);
