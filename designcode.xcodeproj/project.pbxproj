@@ -31,7 +31,7 @@
 		7BBED5E82B4E457C003D4D72 /* 06-ColorLiteral.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BBED5E72B4E457C003D4D72 /* 06-ColorLiteral.swift */; };
 		7BBED5EA2B4E45E8003D4D72 /* 07-SideBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BBED5E92B4E45E8003D4D72 /* 07-SideBar.swift */; };
 		7BBED5EC2B4E48D6003D4D72 /* 08-ToolBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BBED5EB2B4E48D6003D4D72 /* 08-ToolBar.swift */; };
-		7BBED5EE2B4E4938003D4D72 /* 10-SaveArea.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BBED5ED2B4E4938003D4D72 /* 10-SaveArea.swift */; };
+		7BBED5EE2B4E4938003D4D72 /* 10-SafeArea.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BBED5ED2B4E4938003D4D72 /* 10-SafeArea.swift */; };
 		7BBED5F02B4E49FF003D4D72 /* 11-Text.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BBED5EF2B4E49FF003D4D72 /* 11-Text.swift */; };
 		7BBED5F22B4E4A91003D4D72 /* 15-ShadowAndOpacity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BBED5F12B4E4A91003D4D72 /* 15-ShadowAndOpacity.swift */; };
 		7BBED5F42B4E4B04003D4D72 /* 16-MaskAndTransparancy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BBED5F32B4E4B04003D4D72 /* 16-MaskAndTransparancy.swift */; };
@@ -114,7 +114,7 @@
 		7BBED5E72B4E457C003D4D72 /* 06-ColorLiteral.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "06-ColorLiteral.swift"; sourceTree = "<group>"; };
 		7BBED5E92B4E45E8003D4D72 /* 07-SideBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "07-SideBar.swift"; sourceTree = "<group>"; };
 		7BBED5EB2B4E48D6003D4D72 /* 08-ToolBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "08-ToolBar.swift"; sourceTree = "<group>"; };
-		7BBED5ED2B4E4938003D4D72 /* 10-SaveArea.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10-SaveArea.swift"; sourceTree = "<group>"; };
+		7BBED5ED2B4E4938003D4D72 /* 10-SafeArea.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10-SafeArea.swift"; sourceTree = "<group>"; };
 		7BBED5EF2B4E49FF003D4D72 /* 11-Text.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "11-Text.swift"; sourceTree = "<group>"; };
 		7BBED5F12B4E4A91003D4D72 /* 15-ShadowAndOpacity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "15-ShadowAndOpacity.swift"; sourceTree = "<group>"; };
 		7BBED5F32B4E4B04003D4D72 /* 16-MaskAndTransparancy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "16-MaskAndTransparancy.swift"; sourceTree = "<group>"; };
@@ -244,7 +244,7 @@
 				7BBED5E72B4E457C003D4D72 /* 06-ColorLiteral.swift */,
 				7BBED5E92B4E45E8003D4D72 /* 07-SideBar.swift */,
 				7BBED5EB2B4E48D6003D4D72 /* 08-ToolBar.swift */,
-				7BBED5ED2B4E4938003D4D72 /* 10-SaveArea.swift */,
+				7BBED5ED2B4E4938003D4D72 /* 10-SafeArea.swift */,
 				7BBED5EF2B4E49FF003D4D72 /* 11-Text.swift */,
 				7BBED5F12B4E4A91003D4D72 /* 15-ShadowAndOpacity.swift */,
 				7BBED5F32B4E4B04003D4D72 /* 16-MaskAndTransparancy.swift */,
@@ -467,7 +467,7 @@
 				7BBED5E22B4E3D94003D4D72 /* 02-StackAndSpacer.swift in Sources */,
 				7BBED5E62B4E44D0003D4D72 /* 05-SFSymbol.swift in Sources */,
 				7BBED5E02B4E3BCC003D4D72 /* 01-Layout.swift in Sources */,
-				7BBED5EE2B4E4938003D4D72 /* 10-SaveArea.swift in Sources */,
+				7BBED5EE2B4E4938003D4D72 /* 10-SafeArea.swift in Sources */,
 				7BF70ED62B4E53E4006FEF2C /* 20-TransitionAndAnimation.swift in Sources */,
 				7BF70EF82B4E91D7006FEF2C /* 35-Full Screen Modal.swift in Sources */,
 				7BF2CE2A2B50EDFF00153B7A /* 46-SwitchStatement.swift in Sources */,
