@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7B072C272D15653400E831C5 /* 87-MultipleBlendingModes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B072C262D15652200E831C5 /* 87-MultipleBlendingModes.swift */; };
+		7B072C292D1565A700E831C5 /* 88-CircularTextonPath.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B072C282D15658200E831C5 /* 88-CircularTextonPath.swift */; };
 		7B9F4CA92B54D47400CF97BD /* 50-AVPPlayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B9F4CA82B54D47400CF97BD /* 50-AVPPlayer.swift */; };
 		7B9F4CAB2B55075600CF97BD /* 51-LinkFromText.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B9F4CAA2B55075600CF97BD /* 51-LinkFromText.swift */; };
 		7B9F4CAD2B5508C000CF97BD /* 52-Share Sheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B9F4CAC2B5508C000CF97BD /* 52-Share Sheet.swift */; };
@@ -14,9 +16,22 @@
 		7B9F4CB12B550C2A00CF97BD /* 54-AppStorage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B9F4CB02B550C2A00CF97BD /* 54-AppStorage.swift */; };
 		7B9F4CB32B550CD200CF97BD /* 55-ActionSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B9F4CB22B550CD200CF97BD /* 55-ActionSheet.swift */; };
 		7B9F4CB52B550DB300CF97BD /* 56-TabbarScrollUp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B9F4CB42B550DB300CF97BD /* 56-TabbarScrollUp.swift */; };
+		7BB3E4D92D1C3347007A2B2E /* 94-SVGtoSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BB3E4D82D1C333B007A2B2E /* 94-SVGtoSwiftUI.swift */; };
+		7BB3E4DD2D1C3422007A2B2E /* 95-DetectScreenSize.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BB3E4DC2D1C3410007A2B2E /* 95-DetectScreenSize.swift */; };
+		7BB3E4DF2D1C3738007A2B2E /* 96-CustomLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BB3E4DE2D1C372F007A2B2E /* 96-CustomLayout.swift */; };
+		7BB3E4E12D1C3868007A2B2E /* 97-RadialLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BB3E4E02D1C385C007A2B2E /* 97-RadialLayout.swift */; };
+		7BB3E4E32D1C3A16007A2B2E /* 98-CoreLocation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BB3E4E22D1C3A0D007A2B2E /* 98-CoreLocation.swift */; };
+		7BB3E4E62D1C3A92007A2B2E /* 98-LocationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BB3E4E52D1C3A8B007A2B2E /* 98-LocationManager.swift */; };
+		7BB3E4E82D1C3B01007A2B2E /* 99-RadialGradientButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BB3E4E72D1C3AE8007A2B2E /* 99-RadialGradientButton.swift */; };
+		7BB3E4EA2D1C3C6F007A2B2E /* 100-SFSymbolsAnimations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BB3E4E92D1C3C5F007A2B2E /* 100-SFSymbolsAnimations.swift */; };
+		7BB3E4EC2D1C3DDC007A2B2E /* 101-PhaseAnimator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BB3E4EB2D1C3DD3007A2B2E /* 101-PhaseAnimator.swift */; };
+		7BB3E4EE2D1C3EFB007A2B2E /* 102-KeyframeAnimator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BB3E4ED2D1C3EF1007A2B2E /* 102-KeyframeAnimator.swift */; };
 		7BBADC762B4F979000519F59 /* 36-HideStatusBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BBADC752B4F979000519F59 /* 36-HideStatusBar.swift */; };
 		7BBADC782B4F98CD00519F59 /* 37-RedactedPlaceholder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BBADC772B4F98CD00519F59 /* 37-RedactedPlaceholder.swift */; };
 		7BBADC7A2B4F9B7500519F59 /* 38-HorizontalScroll3D.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BBADC792B4F9B7500519F59 /* 38-HorizontalScroll3D.swift */; };
+		7BBD95EF2D1A714400C67BB8 /* 91-HalfSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BBD95EE2D1A713F00C67BB8 /* 91-HalfSheet.swift */; };
+		7BBD95F12D1A734F00C67BB8 /* 92-Charts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BBD95F02D1A734A00C67BB8 /* 92-Charts.swift */; };
+		7BBD95F32D1A742600C67BB8 /* 93-GridLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BBD95F22D1A741D00C67BB8 /* 93-GridLayout.swift */; };
 		7BBED5B52B4E3B28003D4D72 /* designcodeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BBED5B42B4E3B28003D4D72 /* designcodeApp.swift */; };
 		7BBED5B72B4E3B28003D4D72 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BBED5B62B4E3B28003D4D72 /* ContentView.swift */; };
 		7BBED5B92B4E3B29003D4D72 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7BBED5B82B4E3B29003D4D72 /* Assets.xcassets */; };
@@ -35,6 +50,8 @@
 		7BBED5F02B4E49FF003D4D72 /* 11-Text.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BBED5EF2B4E49FF003D4D72 /* 11-Text.swift */; };
 		7BBED5F22B4E4A91003D4D72 /* 15-ShadowAndOpacity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BBED5F12B4E4A91003D4D72 /* 15-ShadowAndOpacity.swift */; };
 		7BBED5F42B4E4B04003D4D72 /* 16-MaskAndTransparancy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BBED5F32B4E4B04003D4D72 /* 16-MaskAndTransparancy.swift */; };
+		7BDF659E2D191668009CDF10 /* 89-ViewThatFits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BDF659D2D19164E009CDF10 /* 89-ViewThatFits.swift */; };
+		7BDF65A02D1917F9009CDF10 /* 90-NavigationStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BDF659F2D1917F0009CDF10 /* 90-NavigationStack.swift */; };
 		7BF2CE192B50DF8000153B7A /* 39-AnimationRepeatDelaySpeed.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BF2CE182B50DF8000153B7A /* 39-AnimationRepeatDelaySpeed.swift */; };
 		7BF2CE1B2B50E20800153B7A /* 40-TabSelectionFromChildView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BF2CE1A2B50E20800153B7A /* 40-TabSelectionFromChildView.swift */; };
 		7BF2CE1D2B50E3C200153B7A /* 41-StatusBarSizeWithGeometry.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BF2CE1C2B50E3C200153B7A /* 41-StatusBarSizeWithGeometry.swift */; };
@@ -87,6 +104,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		7B072C262D15652200E831C5 /* 87-MultipleBlendingModes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "87-MultipleBlendingModes.swift"; sourceTree = "<group>"; };
+		7B072C282D15658200E831C5 /* 88-CircularTextonPath.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "88-CircularTextonPath.swift"; sourceTree = "<group>"; };
 		7B9F4CA82B54D47400CF97BD /* 50-AVPPlayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "50-AVPPlayer.swift"; sourceTree = "<group>"; };
 		7B9F4CAA2B55075600CF97BD /* 51-LinkFromText.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "51-LinkFromText.swift"; sourceTree = "<group>"; };
 		7B9F4CAC2B5508C000CF97BD /* 52-Share Sheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "52-Share Sheet.swift"; sourceTree = "<group>"; };
@@ -94,9 +113,22 @@
 		7B9F4CB02B550C2A00CF97BD /* 54-AppStorage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "54-AppStorage.swift"; sourceTree = "<group>"; };
 		7B9F4CB22B550CD200CF97BD /* 55-ActionSheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "55-ActionSheet.swift"; sourceTree = "<group>"; };
 		7B9F4CB42B550DB300CF97BD /* 56-TabbarScrollUp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "56-TabbarScrollUp.swift"; sourceTree = "<group>"; };
+		7BB3E4D82D1C333B007A2B2E /* 94-SVGtoSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "94-SVGtoSwiftUI.swift"; sourceTree = "<group>"; };
+		7BB3E4DC2D1C3410007A2B2E /* 95-DetectScreenSize.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "95-DetectScreenSize.swift"; sourceTree = "<group>"; };
+		7BB3E4DE2D1C372F007A2B2E /* 96-CustomLayout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "96-CustomLayout.swift"; sourceTree = "<group>"; };
+		7BB3E4E02D1C385C007A2B2E /* 97-RadialLayout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "97-RadialLayout.swift"; sourceTree = "<group>"; };
+		7BB3E4E22D1C3A0D007A2B2E /* 98-CoreLocation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "98-CoreLocation.swift"; sourceTree = "<group>"; };
+		7BB3E4E52D1C3A8B007A2B2E /* 98-LocationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "98-LocationManager.swift"; sourceTree = "<group>"; };
+		7BB3E4E72D1C3AE8007A2B2E /* 99-RadialGradientButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "99-RadialGradientButton.swift"; sourceTree = "<group>"; };
+		7BB3E4E92D1C3C5F007A2B2E /* 100-SFSymbolsAnimations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "100-SFSymbolsAnimations.swift"; sourceTree = "<group>"; };
+		7BB3E4EB2D1C3DD3007A2B2E /* 101-PhaseAnimator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "101-PhaseAnimator.swift"; sourceTree = "<group>"; };
+		7BB3E4ED2D1C3EF1007A2B2E /* 102-KeyframeAnimator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "102-KeyframeAnimator.swift"; sourceTree = "<group>"; };
 		7BBADC752B4F979000519F59 /* 36-HideStatusBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "36-HideStatusBar.swift"; sourceTree = "<group>"; };
 		7BBADC772B4F98CD00519F59 /* 37-RedactedPlaceholder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "37-RedactedPlaceholder.swift"; sourceTree = "<group>"; };
 		7BBADC792B4F9B7500519F59 /* 38-HorizontalScroll3D.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "38-HorizontalScroll3D.swift"; sourceTree = "<group>"; };
+		7BBD95EE2D1A713F00C67BB8 /* 91-HalfSheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "91-HalfSheet.swift"; sourceTree = "<group>"; };
+		7BBD95F02D1A734A00C67BB8 /* 92-Charts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "92-Charts.swift"; sourceTree = "<group>"; };
+		7BBD95F22D1A741D00C67BB8 /* 93-GridLayout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "93-GridLayout.swift"; sourceTree = "<group>"; };
 		7BBED5B12B4E3B28003D4D72 /* designcode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = designcode.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7BBED5B42B4E3B28003D4D72 /* designcodeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = designcodeApp.swift; sourceTree = "<group>"; };
 		7BBED5B62B4E3B28003D4D72 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -118,6 +150,8 @@
 		7BBED5EF2B4E49FF003D4D72 /* 11-Text.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "11-Text.swift"; sourceTree = "<group>"; };
 		7BBED5F12B4E4A91003D4D72 /* 15-ShadowAndOpacity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "15-ShadowAndOpacity.swift"; sourceTree = "<group>"; };
 		7BBED5F32B4E4B04003D4D72 /* 16-MaskAndTransparancy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "16-MaskAndTransparancy.swift"; sourceTree = "<group>"; };
+		7BDF659D2D19164E009CDF10 /* 89-ViewThatFits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "89-ViewThatFits.swift"; sourceTree = "<group>"; };
+		7BDF659F2D1917F0009CDF10 /* 90-NavigationStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "90-NavigationStack.swift"; sourceTree = "<group>"; };
 		7BF2CE182B50DF8000153B7A /* 39-AnimationRepeatDelaySpeed.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "39-AnimationRepeatDelaySpeed.swift"; sourceTree = "<group>"; };
 		7BF2CE1A2B50E20800153B7A /* 40-TabSelectionFromChildView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "40-TabSelectionFromChildView.swift"; sourceTree = "<group>"; };
 		7BF2CE1C2B50E3C200153B7A /* 41-StatusBarSizeWithGeometry.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "41-StatusBarSizeWithGeometry.swift"; sourceTree = "<group>"; };
@@ -177,6 +211,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		7BB3E4E42D1C3A52007A2B2E /* 98-CoreLocation */ = {
+			isa = PBXGroup;
+			children = (
+				7BB3E4E52D1C3A8B007A2B2E /* 98-LocationManager.swift */,
+				7BB3E4E22D1C3A0D007A2B2E /* 98-CoreLocation.swift */,
+			);
+			path = "98-CoreLocation";
+			sourceTree = "<group>";
+		};
 		7BBED5A82B4E3B28003D4D72 = {
 			isa = PBXGroup;
 			children = (
@@ -237,6 +280,22 @@
 		7BBED5DE2B4E3B3E003D4D72 /* Design Code Tutorial */ = {
 			isa = PBXGroup;
 			children = (
+				7BB3E4ED2D1C3EF1007A2B2E /* 102-KeyframeAnimator.swift */,
+				7BB3E4EB2D1C3DD3007A2B2E /* 101-PhaseAnimator.swift */,
+				7BB3E4E92D1C3C5F007A2B2E /* 100-SFSymbolsAnimations.swift */,
+				7BB3E4E72D1C3AE8007A2B2E /* 99-RadialGradientButton.swift */,
+				7BB3E4E42D1C3A52007A2B2E /* 98-CoreLocation */,
+				7BB3E4E02D1C385C007A2B2E /* 97-RadialLayout.swift */,
+				7BB3E4DE2D1C372F007A2B2E /* 96-CustomLayout.swift */,
+				7BB3E4DC2D1C3410007A2B2E /* 95-DetectScreenSize.swift */,
+				7BB3E4D82D1C333B007A2B2E /* 94-SVGtoSwiftUI.swift */,
+				7BBD95F22D1A741D00C67BB8 /* 93-GridLayout.swift */,
+				7BBD95F02D1A734A00C67BB8 /* 92-Charts.swift */,
+				7BBD95EE2D1A713F00C67BB8 /* 91-HalfSheet.swift */,
+				7BDF659F2D1917F0009CDF10 /* 90-NavigationStack.swift */,
+				7BDF659D2D19164E009CDF10 /* 89-ViewThatFits.swift */,
+				7B072C282D15658200E831C5 /* 88-CircularTextonPath.swift */,
+				7B072C262D15652200E831C5 /* 87-MultipleBlendingModes.swift */,
 				7BBED5DF2B4E3BCC003D4D72 /* 01-Layout.swift */,
 				7BBED5E12B4E3D93003D4D72 /* 02-StackAndSpacer.swift */,
 				7BBED5E32B4E40E8003D4D72 /* 04-ShapeAndStroke.swift */,
@@ -445,13 +504,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7BB3E4E32D1C3A16007A2B2E /* 98-CoreLocation.swift in Sources */,
 				7BBED5EC2B4E48D6003D4D72 /* 08-ToolBar.swift in Sources */,
 				7BBED5F42B4E4B04003D4D72 /* 16-MaskAndTransparancy.swift in Sources */,
 				7BBADC762B4F979000519F59 /* 36-HideStatusBar.swift in Sources */,
 				7B9F4CA92B54D47400CF97BD /* 50-AVPPlayer.swift in Sources */,
 				7BF70EDA2B4E566D006FEF2C /* 22-TransforAnimation.swift in Sources */,
+				7BB3E4DF2D1C3738007A2B2E /* 96-CustomLayout.swift in Sources */,
 				7BF70EE62B4E865B006FEF2C /* 28-NavigationView.swift in Sources */,
 				7B9F4CB12B550C2A00CF97BD /* 54-AppStorage.swift in Sources */,
+				7B072C292D1565A700E831C5 /* 88-CircularTextonPath.swift in Sources */,
 				7BF70EF62B4E916F006FEF2C /* 34-StaticData.swift in Sources */,
 				7BF70EE82B4E8754006FEF2C /* 29-Link.swift in Sources */,
 				7BBED5E82B4E457C003D4D72 /* 06-ColorLiteral.swift in Sources */,
@@ -460,31 +522,44 @@
 				7BF2CE212B50E71600153B7A /* 43-RemoteImage.swift in Sources */,
 				7BF2CE1F2B50E57500153B7A /* 42-ModalPresentation.swift in Sources */,
 				7BF2CE1D2B50E3C200153B7A /* 41-StatusBarSizeWithGeometry.swift in Sources */,
+				7BB3E4D92D1C3347007A2B2E /* 94-SVGtoSwiftUI.swift in Sources */,
 				7BF70EE42B4E85F6006FEF2C /* 27-LazyStacks.swift in Sources */,
 				7BF2CE2C2B50EEA500153B7A /* 47-FormatDate.swift in Sources */,
 				7BF70EEE2B4E8AC1006FEF2C /* 32-Hover.swift in Sources */,
 				7BF2CE192B50DF8000153B7A /* 39-AnimationRepeatDelaySpeed.swift in Sources */,
 				7BBED5E22B4E3D94003D4D72 /* 02-StackAndSpacer.swift in Sources */,
+				7BBD95EF2D1A714400C67BB8 /* 91-HalfSheet.swift in Sources */,
 				7BBED5E62B4E44D0003D4D72 /* 05-SFSymbol.swift in Sources */,
+				7BDF659E2D191668009CDF10 /* 89-ViewThatFits.swift in Sources */,
 				7BBED5E02B4E3BCC003D4D72 /* 01-Layout.swift in Sources */,
 				7BBED5EE2B4E4938003D4D72 /* 10-SafeArea.swift in Sources */,
+				7BB3E4EC2D1C3DDC007A2B2E /* 101-PhaseAnimator.swift in Sources */,
 				7BF70ED62B4E53E4006FEF2C /* 20-TransitionAndAnimation.swift in Sources */,
 				7BF70EF82B4E91D7006FEF2C /* 35-Full Screen Modal.swift in Sources */,
+				7BB3E4E62D1C3A92007A2B2E /* 98-LocationManager.swift in Sources */,
 				7BF2CE2A2B50EDFF00153B7A /* 46-SwitchStatement.swift in Sources */,
 				7B9F4CB52B550DB300CF97BD /* 56-TabbarScrollUp.swift in Sources */,
+				7BB3E4E82D1C3B01007A2B2E /* 99-RadialGradientButton.swift in Sources */,
 				7BBED5F02B4E49FF003D4D72 /* 11-Text.swift in Sources */,
+				7BBD95F12D1A734F00C67BB8 /* 92-Charts.swift in Sources */,
 				7BF70ED02B4E52C4006FEF2C /* 17-ClipShapeandSmooth.swift in Sources */,
 				7BBED5E42B4E40E8003D4D72 /* 04-ShapeAndStroke.swift in Sources */,
 				7B9F4CAD2B5508C000CF97BD /* 52-Share Sheet.swift in Sources */,
+				7BBD95F32D1A742600C67BB8 /* 93-GridLayout.swift in Sources */,
 				7BF70ED82B4E55F9006FEF2C /* 21-AnimationModifierAndTiming.swift in Sources */,
 				7BBED5F22B4E4A91003D4D72 /* 15-ShadowAndOpacity.swift in Sources */,
+				7B072C272D15653400E831C5 /* 87-MultipleBlendingModes.swift in Sources */,
 				7BF70EEA2B4E88E9006FEF2C /* 30-ColorPicker.swift in Sources */,
+				7BDF65A02D1917F9009CDF10 /* 90-NavigationStack.swift in Sources */,
 				7BF2CE282B50EBB500153B7A /* 45-IteratingArray.swift in Sources */,
 				7B9F4CAB2B55075600CF97BD /* 51-LinkFromText.swift in Sources */,
+				7BB3E4DD2D1C3422007A2B2E /* 95-DetectScreenSize.swift in Sources */,
 				7BF2CE262B50EA4700153B7A /* 44-DismissCustomModal.swift in Sources */,
 				7BF70ED22B4E5326006FEF2C /* 18-TabAndPagination.swift in Sources */,
 				7BF70EE22B4E70CD006FEF2C /* 26-MatchedGeometryEffect.swift in Sources */,
 				7BF2CE1B2B50E20800153B7A /* 40-TabSelectionFromChildView.swift in Sources */,
+				7BB3E4EA2D1C3C6F007A2B2E /* 100-SFSymbolsAnimations.swift in Sources */,
+				7BB3E4E12D1C3868007A2B2E /* 97-RadialLayout.swift in Sources */,
 				7BF70EF12B4E8B6B006FEF2C /* Home.swift in Sources */,
 				7BF2CE302B50F20800153B7A /* 49-HideKeyboard.swift in Sources */,
 				7BBADC7A2B4F9B7500519F59 /* 38-HorizontalScroll3D.swift in Sources */,
@@ -496,6 +571,7 @@
 				7BBED5B72B4E3B28003D4D72 /* ContentView.swift in Sources */,
 				7BF70EDC2B4E6FA4006FEF2C /* 23-TabAnimationDelay.swift in Sources */,
 				7BF70ED42B4E537F006FEF2C /* 19-AnimationStates.swift in Sources */,
+				7BB3E4EE2D1C3EFB007A2B2E /* 102-KeyframeAnimator.swift in Sources */,
 				7B9F4CB32B550CD200CF97BD /* 55-ActionSheet.swift in Sources */,
 				7BF2CE2E2B50F02B00153B7A /* 48-UserDefaults.swift in Sources */,
 				7BBED5B52B4E3B28003D4D72 /* designcodeApp.swift in Sources */,
