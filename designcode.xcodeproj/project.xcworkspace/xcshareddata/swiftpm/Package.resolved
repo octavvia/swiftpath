@@ -1,4 +1,5 @@
 {
+  "originHash" : "6cc14414cf294ce41bac6dfcd83ec8ca65634cd461ebdb3e0751bbaa110a8da7",
   "pins" : [
     {
       "identity" : "sdwebimage",
@@ -17,7 +18,16 @@
         "revision" : "261b6cec35686d2dc192b809ab50742b4502a73b",
         "version" : "2.2.6"
       }
+    },
+    {
+      "identity" : "trackable-scroll-view",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/maxnatchanon/trackable-scroll-view",
+      "state" : {
+        "branch" : "master",
+        "revision" : "4b094575c2370c3341d0b377a27b46bda4f937f7"
+      }
     }
   ],
-  "version" : 2
+  "version" : 3
 }
