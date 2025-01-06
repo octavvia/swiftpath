@@ -7,6 +7,26 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		59427AB62D2B75990021048E /* 110-GradientText.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59427AB52D2B75910021048E /* 110-GradientText.swift */; };
+		59427AB82D2B75DE0021048E /* 111-ExpandingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59427AB72D2B75D60021048E /* 111-ExpandingView.swift */; };
+		59427ABA2D2B763E0021048E /* 112-MeshGradient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59427AB92D2B76340021048E /* 112-MeshGradient.swift */; };
+		59427ABC2D2B7AEF0021048E /* 113-ParalaxScrollView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59427ABB2D2B7AE40021048E /* 113-ParalaxScrollView.swift */; };
+		59427ABE2D2B7B4E0021048E /* 114-NavigationTrnsition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59427ABD2D2B7B420021048E /* 114-NavigationTrnsition.swift */; };
+		59427AC02D2B7D480021048E /* 115-TextTransation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59427ABF2D2B7D3D0021048E /* 115-TextTransation.swift */; };
+		59427AC32D2B80090021048E /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59427AC22D2B80060021048E /* MainView.swift */; };
+		59427AC52D2B801D0021048E /* TextTranslation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59427AC42D2B80110021048E /* TextTranslation.swift */; };
+		59427AC72D2B80490021048E /* Emparist.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59427AC62D2B80450021048E /* Emparist.swift */; };
+		59427AC92D2B80E00021048E /* 116-FontWeightAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59427AC82D2B80D40021048E /* 116-FontWeightAnimation.swift */; };
+		59427ACC2D2B81430021048E /* 116-AnimateText.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59427ACB2D2B81390021048E /* 116-AnimateText.swift */; };
+		59427ACE2D2B815E0021048E /* 116-FontSetting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59427ACD2D2B81580021048E /* 116-FontSetting.swift */; };
+		59427AD12D2B81C50021048E /* 117-RippleVisual.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59427AD02D2B81C20021048E /* 117-RippleVisual.swift */; };
+		59427AD32D2B82030021048E /* RippleEffect.metal in Sources */ = {isa = PBXBuildFile; fileRef = 59427AD22D2B81FE0021048E /* RippleEffect.metal */; };
+		59427AD52D2B82130021048E /* RippleEffectModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59427AD42D2B82100021048E /* RippleEffectModifier.swift */; };
+		59427AD92D2B82800021048E /* Ripple_Visual_Effect_Interaction_with_Metal_ShaderApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59427AD82D2B827D0021048E /* Ripple_Visual_Effect_Interaction_with_Metal_ShaderApp.swift */; };
+		59427ADC2D2B868B0021048E /* 118-CustomModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59427ADB2D2B867F0021048E /* 118-CustomModifier.swift */; };
+		59427ADF2D2B88B60021048E /* 119-ProgressiveBlur.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59427ADE2D2B88AC0021048E /* 119-ProgressiveBlur.swift */; };
+		59427AE12D2B88F00021048E /* VariableBlur.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59427AE02D2B88E30021048E /* VariableBlur.swift */; };
+		59427AE32D2B8B0F0021048E /* 120-NumericCount.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59427AE22D2B8B020021048E /* 120-NumericCount.swift */; };
 		7B072C272D15653400E831C5 /* 87-MultipleBlendingModes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B072C262D15652200E831C5 /* 87-MultipleBlendingModes.swift */; };
 		7B072C292D1565A700E831C5 /* 88-CircularTextonPath.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B072C282D15658200E831C5 /* 88-CircularTextonPath.swift */; };
 		7B9F4CA92B54D47400CF97BD /* 50-AVPPlayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B9F4CA82B54D47400CF97BD /* 50-AVPPlayer.swift */; };
@@ -111,6 +131,27 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		59427AB52D2B75910021048E /* 110-GradientText.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "110-GradientText.swift"; sourceTree = "<group>"; };
+		59427AB72D2B75D60021048E /* 111-ExpandingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "111-ExpandingView.swift"; sourceTree = "<group>"; };
+		59427AB92D2B76340021048E /* 112-MeshGradient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "112-MeshGradient.swift"; sourceTree = "<group>"; };
+		59427ABB2D2B7AE40021048E /* 113-ParalaxScrollView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "113-ParalaxScrollView.swift"; sourceTree = "<group>"; };
+		59427ABD2D2B7B420021048E /* 114-NavigationTrnsition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "114-NavigationTrnsition.swift"; sourceTree = "<group>"; };
+		59427ABF2D2B7D3D0021048E /* 115-TextTransation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "115-TextTransation.swift"; sourceTree = "<group>"; };
+		59427AC22D2B80060021048E /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		59427AC42D2B80110021048E /* TextTranslation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextTranslation.swift; sourceTree = "<group>"; };
+		59427AC62D2B80450021048E /* Emparist.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Emparist.swift; sourceTree = "<group>"; };
+		59427AC82D2B80D40021048E /* 116-FontWeightAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "116-FontWeightAnimation.swift"; sourceTree = "<group>"; };
+		59427ACB2D2B81390021048E /* 116-AnimateText.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "116-AnimateText.swift"; sourceTree = "<group>"; };
+		59427ACD2D2B81580021048E /* 116-FontSetting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "116-FontSetting.swift"; sourceTree = "<group>"; };
+		59427AD02D2B81C20021048E /* 117-RippleVisual.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "117-RippleVisual.swift"; sourceTree = "<group>"; };
+		59427AD22D2B81FE0021048E /* RippleEffect.metal */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.metal; path = RippleEffect.metal; sourceTree = "<group>"; };
+		59427AD42D2B82100021048E /* RippleEffectModifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RippleEffectModifier.swift; sourceTree = "<group>"; };
+		59427AD62D2B82580021048E /* Untitled.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Untitled.swift; sourceTree = "<group>"; };
+		59427AD82D2B827D0021048E /* Ripple_Visual_Effect_Interaction_with_Metal_ShaderApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ripple_Visual_Effect_Interaction_with_Metal_ShaderApp.swift; sourceTree = "<group>"; };
+		59427ADB2D2B867F0021048E /* 118-CustomModifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "118-CustomModifier.swift"; sourceTree = "<group>"; };
+		59427ADE2D2B88AC0021048E /* 119-ProgressiveBlur.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "119-ProgressiveBlur.swift"; sourceTree = "<group>"; };
+		59427AE02D2B88E30021048E /* VariableBlur.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VariableBlur.swift; sourceTree = "<group>"; };
+		59427AE22D2B8B020021048E /* 120-NumericCount.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "120-NumericCount.swift"; sourceTree = "<group>"; };
 		7B072C262D15652200E831C5 /* 87-MultipleBlendingModes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "87-MultipleBlendingModes.swift"; sourceTree = "<group>"; };
 		7B072C282D15658200E831C5 /* 88-CircularTextonPath.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "88-CircularTextonPath.swift"; sourceTree = "<group>"; };
 		7B9F4CA82B54D47400CF97BD /* 50-AVPPlayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "50-AVPPlayer.swift"; sourceTree = "<group>"; };
@@ -225,6 +266,56 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		59427AC12D2B7DBE0021048E /* 115-TransationText */ = {
+			isa = PBXGroup;
+			children = (
+				59427AC62D2B80450021048E /* Emparist.swift */,
+				59427AC42D2B80110021048E /* TextTranslation.swift */,
+				59427AC22D2B80060021048E /* MainView.swift */,
+				59427ABF2D2B7D3D0021048E /* 115-TextTransation.swift */,
+			);
+			path = "115-TransationText";
+			sourceTree = "<group>";
+		};
+		59427ACA2D2B810B0021048E /* 116-FontAnimation */ = {
+			isa = PBXGroup;
+			children = (
+				59427ACD2D2B81580021048E /* 116-FontSetting.swift */,
+				59427ACB2D2B81390021048E /* 116-AnimateText.swift */,
+				59427AC82D2B80D40021048E /* 116-FontWeightAnimation.swift */,
+			);
+			path = "116-FontAnimation";
+			sourceTree = "<group>";
+		};
+		59427ACF2D2B81A90021048E /* 117-RippleVisualEffect */ = {
+			isa = PBXGroup;
+			children = (
+				59427AD82D2B827D0021048E /* Ripple_Visual_Effect_Interaction_with_Metal_ShaderApp.swift */,
+				59427AD62D2B82580021048E /* Untitled.swift */,
+				59427AD42D2B82100021048E /* RippleEffectModifier.swift */,
+				59427AD22D2B81FE0021048E /* RippleEffect.metal */,
+				59427AD02D2B81C20021048E /* 117-RippleVisual.swift */,
+			);
+			path = "117-RippleVisualEffect";
+			sourceTree = "<group>";
+		};
+		59427ADA2D2B86530021048E /* 118-CustomModifier */ = {
+			isa = PBXGroup;
+			children = (
+				59427ADB2D2B867F0021048E /* 118-CustomModifier.swift */,
+			);
+			path = "118-CustomModifier";
+			sourceTree = "<group>";
+		};
+		59427ADD2D2B88710021048E /* 119-ProgressiveBlur */ = {
+			isa = PBXGroup;
+			children = (
+				59427AE02D2B88E30021048E /* VariableBlur.swift */,
+				59427ADE2D2B88AC0021048E /* 119-ProgressiveBlur.swift */,
+			);
+			path = "119-ProgressiveBlur";
+			sourceTree = "<group>";
+		};
 		7BB3E4E42D1C3A52007A2B2E /* 98-CoreLocation */ = {
 			isa = PBXGroup;
 			children = (
@@ -294,6 +385,17 @@
 		7BBED5DE2B4E3B3E003D4D72 /* Design Code Tutorial */ = {
 			isa = PBXGroup;
 			children = (
+				59427AE22D2B8B020021048E /* 120-NumericCount.swift */,
+				59427ADD2D2B88710021048E /* 119-ProgressiveBlur */,
+				59427ADA2D2B86530021048E /* 118-CustomModifier */,
+				59427ACF2D2B81A90021048E /* 117-RippleVisualEffect */,
+				59427ACA2D2B810B0021048E /* 116-FontAnimation */,
+				59427AC12D2B7DBE0021048E /* 115-TransationText */,
+				59427ABD2D2B7B420021048E /* 114-NavigationTrnsition.swift */,
+				59427ABB2D2B7AE40021048E /* 113-ParalaxScrollView.swift */,
+				59427AB92D2B76340021048E /* 112-MeshGradient.swift */,
+				59427AB72D2B75D60021048E /* 111-ExpandingView.swift */,
+				59427AB52D2B75910021048E /* 110-GradientText.swift */,
 				7BECD7892D1E82D20000693F /* 109-EmbededRive.swift */,
 				7BECD7842D1E7A210000693F /* 107-SwiftData */,
 				7BECD7822D1E791E0000693F /* 106-ObserableModels.swift */,
@@ -551,9 +653,14 @@
 				7BF70EE62B4E865B006FEF2C /* 28-NavigationView.swift in Sources */,
 				7B9F4CB12B550C2A00CF97BD /* 54-AppStorage.swift in Sources */,
 				7B072C292D1565A700E831C5 /* 88-CircularTextonPath.swift in Sources */,
+				59427ADF2D2B88B60021048E /* 119-ProgressiveBlur.swift in Sources */,
 				7BF70EF62B4E916F006FEF2C /* 34-StaticData.swift in Sources */,
+				59427AB82D2B75DE0021048E /* 111-ExpandingView.swift in Sources */,
 				7BF70EE82B4E8754006FEF2C /* 29-Link.swift in Sources */,
+				59427AB62D2B75990021048E /* 110-GradientText.swift in Sources */,
+				59427AC72D2B80490021048E /* Emparist.swift in Sources */,
 				7BBED5E82B4E457C003D4D72 /* 06-ColorLiteral.swift in Sources */,
+				59427AD92D2B82800021048E /* Ripple_Visual_Effect_Interaction_with_Metal_ShaderApp.swift in Sources */,
 				7BBED5EA2B4E45E8003D4D72 /* 07-SideBar.swift in Sources */,
 				7B9F4CAF2B5509FD00CF97BD /* 53-StringInSwift.swift in Sources */,
 				7BF2CE212B50E71600153B7A /* 43-RemoteImage.swift in Sources */,
@@ -562,8 +669,12 @@
 				7BF2CE1D2B50E3C200153B7A /* 41-StatusBarSizeWithGeometry.swift in Sources */,
 				7BB3E4D92D1C3347007A2B2E /* 94-SVGtoSwiftUI.swift in Sources */,
 				7BF70EE42B4E85F6006FEF2C /* 27-LazyStacks.swift in Sources */,
+				59427ABE2D2B7B4E0021048E /* 114-NavigationTrnsition.swift in Sources */,
+				59427ABC2D2B7AEF0021048E /* 113-ParalaxScrollView.swift in Sources */,
+				59427ADC2D2B868B0021048E /* 118-CustomModifier.swift in Sources */,
 				7BF2CE2C2B50EEA500153B7A /* 47-FormatDate.swift in Sources */,
 				7BF70EEE2B4E8AC1006FEF2C /* 32-Hover.swift in Sources */,
+				59427AC92D2B80E00021048E /* 116-FontWeightAnimation.swift in Sources */,
 				7BF2CE192B50DF8000153B7A /* 39-AnimationRepeatDelaySpeed.swift in Sources */,
 				7BBED5E22B4E3D94003D4D72 /* 02-StackAndSpacer.swift in Sources */,
 				7BBD95EF2D1A714400C67BB8 /* 91-HalfSheet.swift in Sources */,
@@ -573,11 +684,13 @@
 				7BECD7882D1E7A470000693F /* 107-SwiftData.swift in Sources */,
 				7BBED5E02B4E3BCC003D4D72 /* 01-Layout.swift in Sources */,
 				7BBED5EE2B4E4938003D4D72 /* 10-SafeArea.swift in Sources */,
+				59427AC32D2B80090021048E /* MainView.swift in Sources */,
 				7BB3E4EC2D1C3DDC007A2B2E /* 101-PhaseAnimator.swift in Sources */,
 				7BF70ED62B4E53E4006FEF2C /* 20-TransitionAndAnimation.swift in Sources */,
 				7BF70EF82B4E91D7006FEF2C /* 35-Full Screen Modal.swift in Sources */,
 				7BB3E4E62D1C3A92007A2B2E /* 98-LocationManager.swift in Sources */,
 				7BF2CE2A2B50EDFF00153B7A /* 46-SwitchStatement.swift in Sources */,
+				59427AC52D2B801D0021048E /* TextTranslation.swift in Sources */,
 				7BECD77F2D1E78D20000693F /* Shaders.metal in Sources */,
 				7B9F4CB52B550DB300CF97BD /* 56-TabbarScrollUp.swift in Sources */,
 				7BB3E4E82D1C3B01007A2B2E /* 99-RadialGradientButton.swift in Sources */,
@@ -589,19 +702,25 @@
 				7BBD95F32D1A742600C67BB8 /* 93-GridLayout.swift in Sources */,
 				7BF70ED82B4E55F9006FEF2C /* 21-AnimationModifierAndTiming.swift in Sources */,
 				7BBED5F22B4E4A91003D4D72 /* 15-ShadowAndOpacity.swift in Sources */,
+				59427AD32D2B82030021048E /* RippleEffect.metal in Sources */,
 				7B072C272D15653400E831C5 /* 87-MultipleBlendingModes.swift in Sources */,
 				7BF70EEA2B4E88E9006FEF2C /* 30-ColorPicker.swift in Sources */,
 				7BDF65A02D1917F9009CDF10 /* 90-NavigationStack.swift in Sources */,
 				7BF2CE282B50EBB500153B7A /* 45-IteratingArray.swift in Sources */,
 				7B9F4CAB2B55075600CF97BD /* 51-LinkFromText.swift in Sources */,
+				59427ACC2D2B81430021048E /* 116-AnimateText.swift in Sources */,
+				59427AD12D2B81C50021048E /* 117-RippleVisual.swift in Sources */,
 				7BB3E4DD2D1C3422007A2B2E /* 95-DetectScreenSize.swift in Sources */,
 				7BF2CE262B50EA4700153B7A /* 44-DismissCustomModal.swift in Sources */,
+				59427ACE2D2B815E0021048E /* 116-FontSetting.swift in Sources */,
 				7BF70ED22B4E5326006FEF2C /* 18-TabAndPagination.swift in Sources */,
 				7BF70EE22B4E70CD006FEF2C /* 26-MatchedGeometryEffect.swift in Sources */,
 				7BF2CE1B2B50E20800153B7A /* 40-TabSelectionFromChildView.swift in Sources */,
 				7BB3E4EA2D1C3C6F007A2B2E /* 100-SFSymbolsAnimations.swift in Sources */,
 				7BB3E4E12D1C3868007A2B2E /* 97-RadialLayout.swift in Sources */,
 				7BF70EF12B4E8B6B006FEF2C /* Home.swift in Sources */,
+				59427ABA2D2B763E0021048E /* 112-MeshGradient.swift in Sources */,
+				59427AE12D2B88F00021048E /* VariableBlur.swift in Sources */,
 				7BF2CE302B50F20800153B7A /* 49-HideKeyboard.swift in Sources */,
 				7BBADC7A2B4F9B7500519F59 /* 38-HorizontalScroll3D.swift in Sources */,
 				7BF70EE02B4E7063006FEF2C /* 25-DragGesture.swift in Sources */,
@@ -615,10 +734,13 @@
 				7BBED5B72B4E3B28003D4D72 /* ContentView.swift in Sources */,
 				7BF70EDC2B4E6FA4006FEF2C /* 23-TabAnimationDelay.swift in Sources */,
 				7BF70ED42B4E537F006FEF2C /* 19-AnimationStates.swift in Sources */,
+				59427AE32D2B8B0F0021048E /* 120-NumericCount.swift in Sources */,
 				7BB3E4EE2D1C3EFB007A2B2E /* 103-KeyframeAnimator.swift in Sources */,
 				7B9F4CB32B550CD200CF97BD /* 55-ActionSheet.swift in Sources */,
 				7BF2CE2E2B50F02B00153B7A /* 48-UserDefaults.swift in Sources */,
+				59427AD52D2B82130021048E /* RippleEffectModifier.swift in Sources */,
 				7BBED5B52B4E3B28003D4D72 /* designcodeApp.swift in Sources */,
+				59427AC02D2B7D480021048E /* 115-TextTransation.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -789,6 +911,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -817,6 +940,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
