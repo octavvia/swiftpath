@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "cool-twisted-blue-and-purple-3d-lines-wallpaper.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "cool-twisted-blue-and-purple-3d-lines-wallpaper 1.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "cool-twisted-blue-and-purple-3d-lines-wallpaper 2.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
