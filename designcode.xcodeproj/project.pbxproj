@@ -57,6 +57,7 @@
 		59D8532C2D2CCABA000E6FAB /* CoursessView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59D8532B2D2CCAB4000E6FAB /* CoursessView.swift */; };
 		59D8532E2D2CCBAB000E6FAB /* 66-StatusBarBacgroundScroll.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59D8532D2D2CCB9D000E6FAB /* 66-StatusBarBacgroundScroll.swift */; };
 		59D853322D2CCCA1000E6FAB /* 68-ContainerRelativeShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59D853312D2CCC87000E6FAB /* 68-ContainerRelativeShape.swift */; };
+		59D853872D2CD832000E6FAB /* Readme.md in Resources */ = {isa = PBXBuildFile; fileRef = 59D853862D2CD828000E6FAB /* Readme.md */; };
 		7B072C272D15653400E831C5 /* 87-MultipleBlendingModes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B072C262D15652200E831C5 /* 87-MultipleBlendingModes.swift */; };
 		7B072C292D1565A700E831C5 /* 88-CircularTextonPath.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B072C282D15658200E831C5 /* 88-CircularTextonPath.swift */; };
 		7B9F4CA92B54D47400CF97BD /* 55-AVPPlayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B9F4CA82B54D47400CF97BD /* 55-AVPPlayer.swift */; };
@@ -209,6 +210,7 @@
 		59D8532B2D2CCAB4000E6FAB /* CoursessView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoursessView.swift; sourceTree = "<group>"; };
 		59D8532D2D2CCB9D000E6FAB /* 66-StatusBarBacgroundScroll.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "66-StatusBarBacgroundScroll.swift"; sourceTree = "<group>"; };
 		59D853312D2CCC87000E6FAB /* 68-ContainerRelativeShape.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "68-ContainerRelativeShape.swift"; sourceTree = "<group>"; };
+		59D853862D2CD828000E6FAB /* Readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Readme.md; sourceTree = "<group>"; };
 		7B072C262D15652200E831C5 /* 87-MultipleBlendingModes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "87-MultipleBlendingModes.swift"; sourceTree = "<group>"; };
 		7B072C282D15658200E831C5 /* 88-CircularTextonPath.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "88-CircularTextonPath.swift"; sourceTree = "<group>"; };
 		7B9F4CA82B54D47400CF97BD /* 55-AVPPlayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "55-AVPPlayer.swift"; sourceTree = "<group>"; };
@@ -1148,6 +1150,7 @@
 		7BBED5B32B4E3B28003D4D72 /* designcode */ = {
 			isa = PBXGroup;
 			children = (
+				59D853862D2CD828000E6FAB /* Readme.md */,
 				7BBED5B42B4E3B28003D4D72 /* designcodeApp.swift */,
 				7BBED5B62B4E3B28003D4D72 /* ContentView.swift */,
 				7BBED5DE2B4E3B3E003D4D72 /* Design Code Tutorial */,
@@ -1440,6 +1443,7 @@
 			files = (
 				7BBED5BC2B4E3B29003D4D72 /* Preview Assets.xcassets in Resources */,
 				7BBED5B92B4E3B29003D4D72 /* Assets.xcassets in Resources */,
+				59D853872D2CD832000E6FAB /* Readme.md in Resources */,
 				59427AF82D2BAC1B0021048E /* AnimationFile.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
