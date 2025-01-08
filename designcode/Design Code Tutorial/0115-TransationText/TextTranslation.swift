@@ -1,11 +1,5 @@
-//
-//  TextTransition.swift
-//  Text Transition with Text Renderer in SwiftUI
-//
-//  Created by mrgsdev on 13.07.2024.
-//
-
 import SwiftUI
+
 struct TextTransition: Transition {
     static var properties: TransitionProperties {
         TransitionProperties(hasMotion: true)

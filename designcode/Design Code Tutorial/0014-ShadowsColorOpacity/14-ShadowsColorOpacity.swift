@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  Shadows and Color Opacity
-//
-//  Created by mrgsdev on 09.06.2024.
-//
-
 import SwiftUI
 
 struct ShadowOpacityView: View {

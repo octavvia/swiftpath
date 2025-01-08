@@ -1,10 +1,3 @@
-////
-////  ContentView.swift
-////  Lottie Animation
-////
-////  Created by mrgsdev on 11.06.2024.
-////
-//
 //import SwiftUI
 //
 //struct AniView: View {

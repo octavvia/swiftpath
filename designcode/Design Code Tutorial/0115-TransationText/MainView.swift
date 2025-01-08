@@ -1,10 +1,4 @@
-//
-//  ContentView.swift
-//  Text Transition with Text Renderer in SwiftUI
-//
-//  Created by mrgsdev on 13.07.2024.
-//
-
+import SwiftUI
 import SwiftUI
 
 struct TContentView: View {

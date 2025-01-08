@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  Lazy Grid Layout
-//
-//  Created by mrgsdev on 11.06.2024.
-//
-
 import SwiftUI
 
 struct LazyView: View {

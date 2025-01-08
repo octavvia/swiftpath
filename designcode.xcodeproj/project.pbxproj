@@ -199,7 +199,6 @@
 		59427AD02D2B81C20021048E /* 117-RippleVisual.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "117-RippleVisual.swift"; sourceTree = "<group>"; };
 		59427AD22D2B81FE0021048E /* RippleEffect.metal */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.metal; path = RippleEffect.metal; sourceTree = "<group>"; };
 		59427AD42D2B82100021048E /* RippleEffectModifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RippleEffectModifier.swift; sourceTree = "<group>"; };
-		59427AD62D2B82580021048E /* Untitled.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Untitled.swift; sourceTree = "<group>"; };
 		59427AD82D2B827D0021048E /* Ripple_Visual_Effect_Interaction_with_Metal_ShaderApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ripple_Visual_Effect_Interaction_with_Metal_ShaderApp.swift; sourceTree = "<group>"; };
 		59427ADB2D2B867F0021048E /* 118-CustomModifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "118-CustomModifier.swift"; sourceTree = "<group>"; };
 		59427ADE2D2B88AC0021048E /* 119-ProgressiveBlur.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "119-ProgressiveBlur.swift"; sourceTree = "<group>"; };
@@ -397,7 +396,6 @@
 			isa = PBXGroup;
 			children = (
 				59427AD82D2B827D0021048E /* Ripple_Visual_Effect_Interaction_with_Metal_ShaderApp.swift */,
-				59427AD62D2B82580021048E /* Untitled.swift */,
 				59427AD42D2B82100021048E /* RippleEffectModifier.swift */,
 				59427AD22D2B81FE0021048E /* RippleEffect.metal */,
 				59427AD02D2B81C20021048E /* 117-RippleVisual.swift */,
